@@ -9,7 +9,7 @@ Este é um repositorio sobre o [Palmeiras](https://pt.wikipedia.org/wiki/Socieda
 
 Este repositorio serve pra demonstrar que: 
 - Sei usar o **feijao com arroz** do Markdown 
-- Entendi como usar o basico de git e operar sob um gitflow. 
+- Entendi como usar o **basico** de git e operar sob um gitflow. 
 
 
 ## Gif  
