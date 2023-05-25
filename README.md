@@ -1,6 +1,7 @@
-# Palmeiras 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dci.com.br%2Fwp-content%2Fuploads%2F2021%2F01%2Fpalmeiras-campeao.png&f=1&nofb=1&ipt=e4c60f3830f70e9a80f0870e2344d885089f7d43a6aa10a3c3ee11c4ef5b5a80&ipo=images" alt="Palmeiras" width="400" height="200" align="center"> 
 
+<div align="center"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dci.com.br%2Fwp-content%2Fuploads%2F2021%2F01%2Fpalmeiras-campeao.png&f=1&nofb=1&ipt=e4c60f3830f70e9a80f0870e2344d885089f7d43a6aa10a3c3ee11c4ef5b5a80&ipo=images" alt="Palmeiras" width="400" height="200"></div> 
+
+# Palmeiras 
 
 Este é um repositorio sobre o [Palmeiras](https://pt.wikipedia.org/wiki/Sociedade_Esportiva_Palmeiras) pra atividade da Byron. 
 
